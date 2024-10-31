@@ -39,6 +39,7 @@ body {
         max-width: 768px;
         outline: 1px solid blue;
     }
+}
 @media screen and (min-width: 1200px) {
     .container {
         max-width: 1200px;
